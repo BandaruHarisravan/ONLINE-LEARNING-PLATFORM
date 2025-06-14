@@ -27,3 +27,5 @@ CSS: Used to style the application; minimal custom CSS is needed to ensure a con
 Features: Dynamic Question Loading: This feature ensures a smooth transition between questions without requiring page reloads by loading questions dynamically from a specified dataset. Users receive rapid feedback after choosing an answer, letting them know if it was right or wrong and, if erroneous, providing the right response. Scoring System: The program keeps track of the user's score, showing it in real time and increasing it with each right response. CSS was used in the quiz's construction to ensure that it is completely responsive and offers the best possible experience on all platforms, including PCs, tablets, and smartphones. Interactive User Interface: The quiz's user-friendly buttons allow users to choose their answers, advance to the next question, and restart it after finishing it.
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/2f1201c0-69ca-484e-9aad-4d0b770f664f)
+![Image](https://github.com/user-attachments/assets/b04644a1-7718-4865-837b-954276047b58)
